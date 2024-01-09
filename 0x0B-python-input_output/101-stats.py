@@ -1,5 +1,3 @@
-80% of storage used … Without storage, you can't save to Drive, back up to Photos, and use Gmail. Get 100 GB of storage for R 34.99 R 8.99/month for 3 months.
-0-read_file.py
 #!/usr/bin/python3
 """Reads from standard input and computes metrics.
 
