@@ -19,3 +19,4 @@ print () {
 }
 
 module.exports = Rectangle;
+
